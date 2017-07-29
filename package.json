@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://ascal.github.io/drdoctor",
-
   "dependencies": {
     "enzyme": "^2.9.1",
     "gh-pages": "^1.0.0",
